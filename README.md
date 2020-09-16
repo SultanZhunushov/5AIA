@@ -13,4 +13,4 @@ Esegui su linux:
 - Leonardo Fattorini
 - Riccardo Giangani
 
-#### Made by Daniele Castiglia, Francesco Borri
+#### Made by Sultan Zhunushov
