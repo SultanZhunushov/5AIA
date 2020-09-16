@@ -14,4 +14,4 @@ Esegui su linux:
 - Riccardo Giangani
 - Filippo Sonnati
 
-#### Made by Daniele Castiglia, Francesco Borri
+#### Made by Sultan Zhunushov
